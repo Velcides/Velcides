@@ -13,5 +13,5 @@
 <div align="center"> 
   <a href="https://github.com/Velcides">
   <img height="195px" src="https://github-readme-stats.vercel.app/api?username=Velcides&show_icons=true&layout=compact&hide_border=true&theme=dark" alt="Profile statistics" ></a>
-  <img height="195px" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Velcides&layout=compact&hide_border=true&theme=dark" alt="Profile statistics" ><a>
+  <a>
 </div>
